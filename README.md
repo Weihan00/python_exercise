@@ -1,1 +1,3 @@
 # python_exercise
+
+Begin with Leetcode...
